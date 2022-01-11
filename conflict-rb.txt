@@ -1,3 +1,5 @@
 ligne1
 ligne2
+ligne3 qui apporte la resolution
+Je modifie la ligne 3 dans master
 Je modifie la ligne 3
